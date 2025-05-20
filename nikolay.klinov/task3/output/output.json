@@ -1,0 +1,87 @@
+[
+    {
+        "numberCode": 980,
+        "symbol": "UAH",
+        "rate": 58.109
+    },
+    {
+        "numberCode": 826,
+        "symbol": "GBP",
+        "rate": 43.8254
+    },
+    {
+        "numberCode": 960,
+        "symbol": "XDR",
+        "rate": 38.4205
+    },
+    {
+        "numberCode": 208,
+        "symbol": "DKK",
+        "rate": 36.101
+    },
+    {
+        "numberCode": 578,
+        "symbol": "NOK",
+        "rate": 34.7853
+    },
+    {
+        "numberCode": 840,
+        "symbol": "USD",
+        "rate": 30.9436
+    },
+    {
+        "numberCode": 352,
+        "symbol": "ISK",
+        "rate": 30.7958
+    },
+    {
+        "numberCode": 752,
+        "symbol": "SEK",
+        "rate": 29.5924
+    },
+    {
+        "numberCode": 978,
+        "symbol": "EUR",
+        "rate": 26.8343
+    },
+    {
+        "numberCode": 392,
+        "symbol": "JPY",
+        "rate": 23.1527
+    },
+    {
+        "numberCode": 792,
+        "symbol": "TRL",
+        "rate": 22.2616
+    },
+    {
+        "numberCode": 398,
+        "symbol": "KZT",
+        "rate": 20.3393
+    },
+    {
+        "numberCode": 124,
+        "symbol": "CAD",
+        "rate": 19.324
+    },
+    {
+        "numberCode": 974,
+        "symbol": "BYR",
+        "rate": 18.429
+    },
+    {
+        "numberCode": 756,
+        "symbol": "CHF",
+        "rate": 18.1861
+    },
+    {
+        "numberCode": 702,
+        "symbol": "SGD",
+        "rate": 16.8878
+    },
+    {
+        "numberCode": 36,
+        "symbol": "AUD",
+        "rate": 16.0102
+    }
+]
